@@ -1,0 +1,14 @@
+* {
+    box-sizing: border-box;
+}
+
+.companies-wrapper {
+    max-width: 800px;
+    padding: 0.4em 1em;
+    margin: 0 auto;
+}
+
+.companies-hor-item {
+    height: 450px;
+    border: 1px solid red;
+}
